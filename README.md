@@ -1,4 +1,4 @@
-# Hi there, I'm Ismael :bowtie:
+# Hi there, I'm Ismael 🙂
 
 ## ☁️ About Me
 I am an **Junior Cloud Engineer** currently focused on building and scaling infrastructure in the cloud. 
