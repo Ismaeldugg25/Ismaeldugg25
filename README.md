@@ -1,17 +1,35 @@
-# Hi there, I'm Ismael 👋
+# Hi there 👋
 
-## ☁️ About Me
+```python
+class AboutMe():
+    # Passionate junior Cloud/DevOps engineer who loves bulding and breaking things in the cloud.
 
-I'm a Junior Cloud/DevOps engineer who spends most of his free time messing around with the cloud and building cool stuff. I genuinely enjoy figuring out how infrastructure works, breaking things, fixing them, and learning new things.
+    def __init__(self):
+        self.name           = "Ismael Duggleby"
+        self.username       = "Ismaeldugg25"
+        self.location       = "Malaga, Spain"
+        self.portfolio      = "Coming soon"
+        self.interests      = [
+            "Cloud Infrastructure & Security",
+            "Infrastructure as Code",
+            "DevOps",
+            "AWS",
+            "Artifical Intelligence",
+        ]
 
-Currently focused on building real hands-on projects to sharpen my skills. Here you'll find some of the things I've been working on.
+    def __str__(self):
+        return self.name
+
+if __name__ == '__main__':
+    me = AboutMe()
+```
 
 ---
 
 ## 🛠 Tech Stack
 | Category | Tools |
 | :--- | :--- |
-| **Cloud** | AWS, Azure |
+| **Cloud** | AWS, IAM, EC2, S3, Lambda... |
 | **DevOps** | Git, Docker, GitHub Actions, Terraform, Kubernetes |
 | **Languages** | Python, Bash |
 
