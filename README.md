@@ -37,4 +37,4 @@ if __name__ == '__main__':
 
 ## 🤝 Let's Connect
 - **LinkedIn:** [linkedin.com/in/ismael-duggleby-b0a866255](https://www.linkedin.com/in/ismael-duggleby-b0a866255)
-- **Personal Portfolio:** ismaeldugg25.github.io
+- **Personal Portfolio:** https://ismaeldugg25.github.io/
